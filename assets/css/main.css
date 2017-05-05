@@ -14,3 +14,10 @@ div{
 .red{
 	background: red;
 }
+#left *{
+	float: left;
+}
+
+#rigth *{
+	float: right;
+}
