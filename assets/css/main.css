@@ -1,0 +1,16 @@
+section{
+	width: 250px;
+	height: 250px;
+}
+
+#yellow{
+	background: yellow;
+}
+
+#blue{
+	background: blue;
+}
+
+#red{
+	background: red;
+}
